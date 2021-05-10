@@ -1,0 +1,16 @@
+E:\TrainingPhase2\BankManagement\bin\Debug\net5.0\BankManagement.exe
+E:\TrainingPhase2\BankManagement\bin\Debug\net5.0\BankManagement.deps.json
+E:\TrainingPhase2\BankManagement\bin\Debug\net5.0\BankManagement.runtimeconfig.json
+E:\TrainingPhase2\BankManagement\bin\Debug\net5.0\BankManagement.runtimeconfig.dev.json
+E:\TrainingPhase2\BankManagement\bin\Debug\net5.0\BankManagement.dll
+E:\TrainingPhase2\BankManagement\bin\Debug\net5.0\ref\BankManagement.dll
+E:\TrainingPhase2\BankManagement\bin\Debug\net5.0\BankManagement.pdb
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.csprojAssemblyReference.cache
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.AssemblyInfoInputs.cache
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.AssemblyInfo.cs
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.csproj.CoreCompileInputs.cache
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.dll
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\ref\BankManagement.dll
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.pdb
+E:\TrainingPhase2\BankManagement\obj\Debug\net5.0\BankManagement.genruntimeconfig.cache
