@@ -4,12 +4,18 @@ namespace BankManagement
 {
     public class ReccuringAccount : IAccount
     {
-        private long balance = 289745;
+        private long balance;
+
+        public ReccuringAccount(int bal)
+        {
+            this.balance = bal;
+        }
         public void deposit()
         {
             Console.WriteLine("Enter the amount to deposit.");
             int amount = Convert.ToInt32(Console.ReadLine());
             balance += amount;
+            Console.WriteLine("Updated reccuring account balance is : " + balance);
         }
 
         public void Withdraw()

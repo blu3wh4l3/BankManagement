@@ -4,7 +4,12 @@ namespace BankManagement
 {
     public class CurrentAccount : IAccount
     {
-        private int balance = 10000;
+        private int balance;
+
+        public CurrentAccount(int bal)
+        {
+            this.balance = bal;
+        }
         public void deposit()
         {
             Console.WriteLine("Enter the amount to deposit.");

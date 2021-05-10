@@ -4,12 +4,18 @@ namespace BankManagement
 {
     public class SavingsAccount : IAccount
     {
-        private int balance = 50000;
+        private int balance;
+
+        public SavingsAccount(int bal)
+        {
+            this.balance = bal;
+        }
         public void deposit()
         {
             Console.WriteLine("Enter the amount to deposit.");
             int amount = Convert.ToInt32(Console.ReadLine());
             balance += amount;
+            Console.WriteLine("Updated savings account balance is : " + balance);
         }
 
         public void Withdraw()
